@@ -1,0 +1,1 @@
+txt="Select a country to view forecast. The predictions may not be accurate and are computer estimates itself"
